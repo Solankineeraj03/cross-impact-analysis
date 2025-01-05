@@ -5,6 +5,7 @@ This project analyzes the cross-impact of Order Flow Imbalance (OFI) in equity m
 
 ## Folder Structure
 The repository follows this structure:
+project/ ├── data/ # Placeholder for input datasets ├── notebooks/ # Jupyter notebooks for analysis and results ├── scripts/ # Python scripts for modular implementations ├── results/ # Outputs (e.g., figures, tables, analysis results) ├── README.md # Detailed instructions on how to run the code └── requirements.txt # List of Python packages used in the project
 
 ## Instructions to Run
 1. Clone the repository:
